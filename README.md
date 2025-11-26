@@ -1,0 +1,132 @@
+# 🛒 E-Commerce App UI
+
+## Introduction
+
+A clean and intuitive **E-Commerce App** built using **Swift**, **Xcode**, and modern iOS UI practices.  
+This project includes:
+
+- **Home Screen**
+- **Product Listing Screen**
+- **Product Details Screen**
+- **Cart Screen**
+- **Liked Products Screen**
+
+The app supports dynamic layouts, API integration, smooth navigation, and a fully functional cart system.
+
+---
+
+## Screens Included
+
+- **Home Screen**: Displays categories, banners, and featured products  
+- **Product Listing Screen**: Shows products with price, rating, and category filters  
+- **Product Details Screen**: Shows product images, description, price, and add-to-cart  
+- **Cart Screen**: View added products, update quantity, and proceed to checkout  
+- **Liked Products Screen**: Lists all user-liked products with total count and quick access  
+
+---
+
+## Features
+
+### 🏠 Home Screen
+
+- Dynamic **banner carousel** with smooth page control  
+- Category list with horizontal scrolling  
+- Product list fetched using a REST API  
+- Search bar integrated for filtering products  
+- Layout optimized for all iPhone device sizes  
+
+---
+
+### Liked Products Feature
+
+- Users can like/unlike products from Product Listing and Details screens  
+- Liked products are saved locally for persistence across sessions
+- Pop up showing "Add to wishlist" when product is liked
+- Pop up showing " Remove from wishlist " when removed from product is unlinked
+
+---
+
+### Item Listing Screen
+
+- Grid-style product display  
+- Products fetched from live API  
+- Supports **Add to Cart** directly from the product cell  
+- Displays:
+  - Product thumbnail  
+  - Product name  
+  - Price  
+  - Rating  
+
+---
+
+### Product Details Screen
+
+- Full product information:
+  - Large product image carousel  
+  - Price, rating, and category  
+  - Detailed description  
+- Add to Cart button with quantity handling  
+- Supports showing related items  
+- Title auto-adjusts dynamically for long product names  
+
+---
+
+### 🛒 Cart Screen
+
+- Displays all added products  
+- Update quantity (increase/decrease)  
+- Auto-updated cart subtotal  
+- Dynamic table view height adjustment  
+- Proceed to checkout button  
+- Core Data integration (if implemented)  
+
+---
+
+## API Integration
+
+- Uses **DummyJSON API** for fetching:
+  - Product list  
+  - Product categories  
+  - Product details  
+- JSON decoded using `Codable` models  
+- Error handling for failed network calls  
+
+---
+
+
+
+## Prerequisites
+
+- Xcode 13.0 or later  
+- iOS 14.0 or later  
+- Swift 5.0 or later  
+
+---
+
+## License
+
+This project is open source.
+
+---
+
+## Contributing
+
+Contributions are welcome.  
+Feel free to open an issue or submit a pull request.
+
+---
+
+## Support
+
+For questions or help, contact the project maintainer at **your-email@example.com**
+
+---
+
+## Screenshots
+<div style="display: flex; gap: 10px;">
+<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/589363bd-3307-4376-b758-39ad6fe016ee" />
+<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/54997a03-4e38-43db-a236-41142478e9c4" />
+<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/35956f57-cd38-46c3-a455-ed62c17816e4" />
+<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/8114aad6-1aea-4092-91cc-063af9b57ede" />
+<img width="390" height="861" alt="Image" src="https://github.com/user-attachments/assets/99a0ff34-adb5-45ce-8ffd-54622ff7a002" />
+</div>
