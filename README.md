@@ -1,15 +1,16 @@
-# 🛒 E-Commerce App UI
+# E-Commerce App UI
 
 ## Introduction
 
 A clean and intuitive **E-Commerce App** built using **Swift**, **Xcode**, and modern iOS UI practices.  
 This project includes:
 
+- **Landing Screen**
 - **Home Screen**
 - **Product Listing Screen**
 - **Product Details Screen**
 - **Cart Screen**
-- **Liked Products Screen**
+
 
 The app supports dynamic layouts, API integration, smooth navigation, and a fully functional cart system.
 
@@ -21,19 +22,19 @@ The app supports dynamic layouts, API integration, smooth navigation, and a full
 - **Product Listing Screen**: Shows products with price, rating, and category filters  
 - **Product Details Screen**: Shows product images, description, price, and add-to-cart  
 - **Cart Screen**: View added products, update quantity, and proceed to checkout  
-- **Liked Products Screen**: Lists all user-liked products with total count and quick access  
+
 
 ---
 
 ## Features
 
-### 🏠 Home Screen
+### Home Screen
 
 - Dynamic **banner carousel** with smooth page control  
 - Category list with horizontal scrolling  
 - Product list fetched using a REST API  
 - Search bar integrated for filtering products  
-- Layout optimized for all iPhone device sizes  
+
 
 ---
 
@@ -71,7 +72,7 @@ The app supports dynamic layouts, API integration, smooth navigation, and a full
 
 ---
 
-### 🛒 Cart Screen
+### Cart Screen
 
 - Displays all added products  
 - Update quantity (increase/decrease)  
@@ -124,9 +125,11 @@ For questions or help, contact the project maintainer at **your-email@example.co
 
 ## Screenshots
 <div style="display: flex; gap: 10px;">
-<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/589363bd-3307-4376-b758-39ad6fe016ee" />
-<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/54997a03-4e38-43db-a236-41142478e9c4" />
-<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/35956f57-cd38-46c3-a455-ed62c17816e4" />
-<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/8114aad6-1aea-4092-91cc-063af9b57ede" />
-<img width="390" height="861" alt="Image" src="https://github.com/user-attachments/assets/99a0ff34-adb5-45ce-8ffd-54622ff7a002" />
+<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/589363bd-3307-4376-b758-39ad6fe016ee" />
+<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/54997a03-4e38-43db-a236-41142478e9c4" />
+<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/35956f57-cd38-46c3-a455-ed62c17816e4" />
+<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/8114aad6-1aea-4092-91cc-063af9b57ede" />
+<img width="390" height="250" alt="Image" src="https://github.com/user-attachments/assets/99a0ff34-adb5-45ce-8ffd-54622ff7a002" />
 </div>
+<img src="https://i.ibb.co/pvjGh4qp/Screen-Recording-2025-11-26-at-6-39-21-PM.gif" width="250" alt="App Demo">
+
