@@ -132,8 +132,9 @@ For questions or help, contact the project maintainer at **your-email@example.co
   <img src="https://github.com/user-attachments/assets/8114aad6-1aea-4092-91cc-063af9b57ede" width="250" alt="E-Commerce Screen 4">
 
 </div>
+<div style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/54471739-a03a-478d-bb1e-7fdffbfc67f4" width="300" alt="App Demo GIF">
+</div>
 
-
-<img src="https://i.ibb.co/pvjGh4qp/Screen-Recording-2025-11-26-at-6-39-21-PM.gif" width="250" alt="App Demo">
 
 
