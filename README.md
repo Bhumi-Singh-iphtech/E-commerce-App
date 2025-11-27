@@ -119,7 +119,12 @@ Feel free to open an issue or submit a pull request.
 
 ## Support
 
-For questions or help, contact the project maintainer at **your-email@example.com**
+If you encounter any problems or have questions, please contact the project maintainer at **[email protected]**.
+---
+
+## Acknowledgements  
+Thanks to the **Apple Developer Community** for their frameworks and documentation,  
+which greatly facilitated the development of this project.
 
 ---
 
