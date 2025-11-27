@@ -119,7 +119,9 @@ Feel free to open an issue or submit a pull request.
 
 ## Support
 
+
 If you encounter any problems or have questions, please contact the project maintainer at **[email protected]**.
+
 ---
 
 ## Acknowledgements  
@@ -139,6 +141,7 @@ which greatly facilitated the development of this project.
 </div>
 <div style="margin-top: 20px;">
   <img src="https://github.com/user-attachments/assets/54471739-a03a-478d-bb1e-7fdffbfc67f4" width="300" alt="App Demo GIF">
+  
 </div>
 
 
