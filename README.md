@@ -125,11 +125,15 @@ For questions or help, contact the project maintainer at **your-email@example.co
 
 ## Screenshots
 <div style="display: flex; gap: 10px;">
-<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/589363bd-3307-4376-b758-39ad6fe016ee" />
-<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/54997a03-4e38-43db-a236-41142478e9c4" />
-<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/35956f57-cd38-46c3-a455-ed62c17816e4" />
-<img width="1125" height="250" alt="Image" src="https://github.com/user-attachments/assets/8114aad6-1aea-4092-91cc-063af9b57ede" />
-<img width="390" height="250" alt="Image" src="https://github.com/user-attachments/assets/99a0ff34-adb5-45ce-8ffd-54622ff7a002" />
+  <img src="https://github.com/user-attachments/assets/99a0ff34-adb5-45ce-8ffd-54622ff7a002" width="250" alt="Landing Screen ">
+  <img src="https://github.com/user-attachments/assets/589363bd-3307-4376-b758-39ad6fe016ee" width="250" alt="E-Commerce Screen 1">
+  <img src="https://github.com/user-attachments/assets/54997a03-4e38-43db-a236-41142478e9c4" width="250" alt="E-Commerce Screen 2">
+  <img src="https://github.com/user-attachments/assets/35956f57-cd38-46c3-a455-ed62c17816e4" width="250" alt="E-Commerce Screen 3">
+  <img src="https://github.com/user-attachments/assets/8114aad6-1aea-4092-91cc-063af9b57ede" width="250" alt="E-Commerce Screen 4">
+
 </div>
+
+
 <img src="https://i.ibb.co/pvjGh4qp/Screen-Recording-2025-11-26-at-6-39-21-PM.gif" width="250" alt="App Demo">
+
 
